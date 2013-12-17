@@ -81,7 +81,7 @@ input[type=radio]:checked:before {
   color: #6d6d6d;
 }
 .wp-core-ui .wp-ui-notification {
-  color: white;
+  color: black;
   background-color: #f1f1f1;
 }
 .wp-core-ui .wp-ui-text-notification {
@@ -230,7 +230,7 @@ ul#adminmenu > li.current > a.current:after {
 /* Admin Menu: bubble */
 #adminmenu .awaiting-mod,
 #adminmenu .update-plugins {
-  color: white;
+  color: black;
   background: #f1f1f1;
 }
 

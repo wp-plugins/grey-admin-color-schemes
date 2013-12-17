@@ -5,7 +5,7 @@ Author URI: http://toolstack.com
 Tags: admin color scheme
 Requires at least: 3.8.0
 Tested up to: 3.8.0
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2
 
 Grey color schemes for WordPress 3.8's admin area.
@@ -25,11 +25,14 @@ Grey color schemes for the admin area of WordPress 3.8.
 = None at this time =
 
 == Changelog ==
+= 1.1 =
+* Updated modern theme for better contrast on notification bubbles.
+
 = 1.0 =
 * Initial release.
 
 == Upgrade Notice == 
-= 1.0 =
+= 1.1 =
 * None.
 
 == Screenshots ==
