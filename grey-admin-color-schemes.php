@@ -21,10 +21,12 @@ This software is released under the GPL v2.0, see license.txt for details
 */
 function GACSAddColorSchemes() 
 	{
-	wp_admin_css_color(	'classicgrey', __('Classic Grey'), plugins_url("classic/colors.css", __FILE__ ), array( '#464646', '#6D6D6D', '#F1F1F1', '#21759B' ) );
-	wp_admin_css_color(	'moderngrey', __('Modern Grey'), plugins_url("modern/colors.css", __FILE__ ), array( '#464646', '#6D6D6D', '#D6D6D6', '#21759B' ) );
-	wp_admin_css_color( 'atouchofblue', __('A Touch of Blue'), plugins_url("atouchofblue/colors.css", __FILE__ ), array( '#464646', '#6D6D6D', '#D6D6D6', '#0074A2' ) );
-	wp_admin_css_color( 'postmodern', __('Post Modern Grey'), plugins_url("postmodern/colors.css", __FILE__ ), array( '#464646', '#6D6D6D', '#D6D6D6', '#21759B' ) );
+	$rtl = is_rtl() ? '-rtl' : '';
+
+	wp_admin_css_color(	'classicgrey', __('Classic Grey'), plugins_url("classic/colors$rtl.css", __FILE__ ), array( '#464646', '#6D6D6D', '#F1F1F1', '#21759B' ) );
+	wp_admin_css_color(	'moderngrey', __('Modern Grey'), plugins_url("modern/colors$rtl.css", __FILE__ ), array( '#464646', '#6D6D6D', '#D6D6D6', '#21759B' ) );
+	wp_admin_css_color( 'atouchofblue', __('A Touch of Blue'), plugins_url("atouchofblue/colors$rtl.css", __FILE__ ), array( '#464646', '#6D6D6D', '#D6D6D6', '#0074A2' ) );
+	wp_admin_css_color( 'postmodern', __('Post Modern Grey'), plugins_url("postmodern/colors$rtl.css", __FILE__ ), array( '#464646', '#6D6D6D', '#D6D6D6', '#F1F1F1' ) );
 	}
 
 add_action( 'admin_init' , 'GACSAddColorSchemes' );
