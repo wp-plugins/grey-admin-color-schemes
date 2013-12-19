@@ -1,5 +1,3 @@
-@import "../colors.css";
-
 $base-color: #464646;
 $highlight-color: #6D6D6D;
 $notification-color: #F1F1F1;
@@ -29,7 +27,7 @@ $menu-submenu-background: #fff;
 $menu-collapse-text: #777;
 $menu-collapse-focus-icon: #555;
 
-@import "../../../../wp-admin/css/colors/_admin.scss";
+@import "..\_admin_colors.scss";
 
 /* temporary fix for admin-bar hover color */
 #wpadminbar .ab-top-menu > li:hover > .ab-item,
