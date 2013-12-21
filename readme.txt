@@ -5,7 +5,7 @@ Author URI: http://toolstack.com
 Tags: admin color scheme
 Requires at least: 3.8.0
 Tested up to: 3.8.0
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2
 
 Grey color schemes for WordPress 3.8's admin area.
@@ -14,17 +14,13 @@ Grey color schemes for WordPress 3.8's admin area.
 
 Grey color schemes for the admin area of WordPress 3.8.
 
-=A Touch of Blue=
-The Modern Grey theme with a blue hilight for the current selected menu item.
+* 'A Touch of Blue' - The Modern Grey theme with a blue hilight for the current selected menu item.
 
-=Classic Grey=
-The Classic Grey colour scheme from WordPress 3.7, a very light grey for menu items and white backgrounds.
+* 'Classic Grey' - The Classic Grey colour scheme from WordPress 3.7, a very light grey for menu items and white backgrounds.
 
-=Modern Grey=
-The new default color scheme from WordPress 3.8 lightened up!
+* 'Modern Grey' - The new default color scheme from WordPress 3.8 lightened up!
 
-=Post Modern Grey=
-The Modern Grey theme with grey instead of blue buttons.
+* 'Post Modern Grey' - The Modern Grey theme with grey instead of blue buttons.
 
 == Installation ==
 
@@ -53,9 +49,11 @@ The Modern Grey theme with grey instead of blue buttons.
 
 == Upgrade Notice == 
 = 1.3 =
-* None.
+* Using a new .scss file to generate the color themes.  There may be some missing items, if something looks weird, please let me know.
 
 == Screenshots ==
 
 1. Classic Grey
 2. Modern Grey
+3. A Touch of Blue
+4. Post Modern Grey
