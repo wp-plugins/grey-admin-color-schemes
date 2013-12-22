@@ -5,12 +5,14 @@ Author URI: http://toolstack.com
 Tags: admin color scheme
 Requires at least: 3.8.0
 Tested up to: 3.8.0
-Stable tag: 1.3
+Stable tag: 1.4
 License: GPLv2
 
 Grey color schemes for WordPress 3.8's admin area.
 
 == Description ==
+
+**Due to a bug in previous versions (1.3 and below) of this plugin, you will need to deactivate, uninstall and then re-install to receive updates future updates.**
 
 Grey color schemes for the admin area of WordPress 3.8.
 
@@ -33,6 +35,9 @@ Grey color schemes for the admin area of WordPress 3.8.
 = None at this time =
 
 == Changelog ==
+= 1.4 =
+* Fixed typo in plugin name in main php file.
+
 = 1.3 =
 * Added right to left support.
 * Added 'A Touch of Blue' theme.
@@ -48,7 +53,8 @@ Grey color schemes for the admin area of WordPress 3.8.
 * Initial release.
 
 == Upgrade Notice == 
-= 1.3 =
+= 1.4 =
+* If you are using version 1.3 or below, you must uninstall the plugin and re-install it to get updates.
 * Using a new .scss file to generate the color themes.  There may be some missing items, if something looks weird, please let me know.
 
 == Screenshots ==
