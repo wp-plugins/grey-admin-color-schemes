@@ -3,7 +3,7 @@
 Plugin Name: Grey Admin Color Schemes
 Plugin URI: http://toolstack.com/grey-admin-color-schemes
 Description: Grey color schemes for WordPress 3.8's admin area.
-Version: 1.5
+Version: 1.5.1
 Author: Greg Ross
 Author URI: http://toolstack.com/
 
