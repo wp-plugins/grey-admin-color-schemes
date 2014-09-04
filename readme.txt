@@ -4,7 +4,7 @@ Plugin URI: http://toolstack.com/grey-admin-color-schemes
 Author URI: http://toolstack.com
 Tags: admin color scheme
 Requires at least: 3.8.0
-Tested up to: 3.8.0
+Tested up to: 4.0
 Stable tag: 1.5.1
 License: GPLv2
 
