@@ -21,13 +21,14 @@ $menu-highlight-icon: #ccc;
 $menu-highlight-background: #888;
 
 $menu-bubble-text: #fff;
+$menu-bubble-current-text: #000;
 $menu-avatar-frame: #aaa;
 $menu-submenu-background: #fff;
 
 $menu-collapse-text: #777;
 $menu-collapse-focus-icon: #555;
 
-@import "..\_admin_colors.scss";
+@import "../_admin_colors.scss";
 
 /* temporary fix for admin-bar hover color */
 #wpadminbar .ab-top-menu > li:hover > .ab-item,
