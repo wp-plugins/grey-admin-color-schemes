@@ -2,10 +2,10 @@
 Contributors: GregRoss
 Plugin URI: http://toolstack.com/grey-admin-color-schemes
 Author URI: http://toolstack.com
-Tags: admin color scheme
+Tags: admin, color, scheme
 Requires at least: 3.8.0
-Tested up to: 3.9
-Stable tag: 1.5.1
+Tested up to: 4.2
+Stable tag: 1.6
 License: GPLv2
 
 Grey color schemes for WordPress 3.8's admin area.
@@ -35,6 +35,10 @@ Grey color schemes for the admin area of WordPress 3.8.
 = None at this time =
 
 == Changelog ==
+= 1.6 =
+* Updated Classic color scheme to avoid a white on white display of numbers in the update bubble.
+* Seperated the readme tags with commas.
+
 = 1.5.1 =
 * Updated readme file.
 
