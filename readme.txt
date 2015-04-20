@@ -24,6 +24,10 @@ Grey color schemes for the admin area of WordPress 3.8.
 
 * 'Post Modern Grey' - The Modern Grey theme with grey instead of blue buttons.
 
+Special thanks to the translators:
+
+* Spanish - Andrew Kurtis (www.webhostinghub.com)
+
 == Installation ==
 
 1. Extract the archive file into your plugins directory in the grey-admin-color-schemes folder.
@@ -35,6 +39,10 @@ Grey color schemes for the admin area of WordPress 3.8.
 = None at this time =
 
 == Changelog ==
+= 1.7 =
+* Added i8nl support.
+* Added Spanish translation, thanks Andrew Kurtis.
+
 = 1.6 =
 * Updated Classic color scheme to avoid a white on white display of numbers in the update bubble.
 * Seperated the readme tags with commas.
