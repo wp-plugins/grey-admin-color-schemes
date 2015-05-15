@@ -40,34 +40,43 @@ Special thanks to the translators:
 
 == Changelog ==
 = 1.7 =
+* Release date: April 22, 2015
 * Added i18n support.
 * Added Spanish translation, thanks Andrew Kurtis.
 
 = 1.6 =
+* Release date: March 31, 2015
 * Updated Classic color scheme to avoid a white on white display of numbers in the update bubble.
 * Seperated the readme tags with commas.
 
 = 1.5.1 =
+* Release date: December 28, 2015
 * Updated readme file.
 
 = 1.5 =
+* Release date: December 28, 2015
 * Updated plugin URI.
 
 = 1.4 =
+* Release date: December 22, 2013
 * Fixed typo in plugin name in main php file.
 
 = 1.3 =
+* Release date: December 20, 2013
 * Added right to left support.
 * Added 'A Touch of Blue' theme.
 * Added 'Post Modern Grey' theme.
 
 = 1.2 =
+* Release date: December 17, 2013
 * Fixed typo in plugin description.
 
 = 1.1 =
+* Release date: December 17, 2013
 * Updated modern theme for better contrast on notification bubbles.
 
 = 1.0 =
+* Release date: December 16, 2013
 * Initial release.
 
 == Upgrade Notice == 
